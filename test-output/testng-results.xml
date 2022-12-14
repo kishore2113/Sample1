@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23662" started-at="2022-09-05T00:10:19 IST" finished-at="2022-09-05T00:10:42 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23662" started-at="2022-09-05T00:10:19 IST" finished-at="2022-09-05T00:10:42 IST">
+      <class name="org.practice.FlipkartTask">
+        <test-method status="PASS" signature="page1()[pri:0, instance:org.practice.FlipkartTask@3ecd23d9]" name="page1" duration-ms="23282" started-at="2022-09-05T00:10:19 IST" finished-at="2022-09-05T00:10:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page1 -->
+        <test-method status="PASS" signature="page2()[pri:0, instance:org.practice.FlipkartTask@3ecd23d9]" name="page2" duration-ms="256" started-at="2022-09-05T00:10:42 IST" finished-at="2022-09-05T00:10:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page2 -->
+      </class> <!-- org.practice.FlipkartTask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
